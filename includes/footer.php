@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row justify-content-start">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 footer-section mt-3">
-                <a href="./"><img src="assets/images/dubai_visa_logo.jpg" alt="Visa" class="img-fluid"></a>
+                <a href="./"><img src="assets/images/odvisa-logo.png" alt="Visa" class="img-fluid"></a>
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-2 footer-section mt-3">
                 <h5>Company</h5>
