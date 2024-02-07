@@ -59,6 +59,9 @@
 	.footer-section{
 		text-align: center;
 	} 
+	#home-slider-content {
+        bottom: 0%;
+	}    
 }
 
 @media (min-width: 400px){
@@ -119,7 +122,10 @@
 	 }
 	 .footer-section{
 		 text-align: center;
-	 } 
+	 }  
+	#home-slider-content {
+        bottom: 0%;
+	}
 }
 
 @media (min-width: 576px){
@@ -179,10 +185,12 @@
 		 overflow-y: scroll;
 		 height: 182px;
 	 }
-	 
 	 .footer-section{
 		 text-align: center;
-	 } 
+	 }  
+	#home-slider-content {
+        bottom: 26%;
+	}
 }
 
 @media (min-width: 768px){
@@ -244,7 +252,10 @@
 	 }
 	 .footer-section{
 		 text-align: left;
-	 } 
+	 }  
+	#home-slider-content {
+        bottom: 25%;
+	}
 }
 
 @media (min-width: 992px){
@@ -306,7 +317,10 @@
 	 }
 	 .footer-section{
 		 text-align: left;
-	 } 
+	 }  
+	#home-slider-content {
+        bottom: 25%;
+	}
 }
 
 @media (min-width: 1200px){
@@ -362,6 +376,9 @@
 		position: relative;
 		overflow-y: scroll;
 		height: 304px;
+	} 
+	#home-slider-content {
+        bottom: 0%;
 	}
 }
 
@@ -417,6 +434,9 @@
 		position: relative;
 		overflow-y: scroll;
 		height: 304px;
+	} 
+	#home-slider-content {
+        bottom: 25%;
 	}	
 }
 

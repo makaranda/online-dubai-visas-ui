@@ -694,7 +694,7 @@ canvas {
 .three-steps .step-col:nth-child(1) .step-area:after,.three-steps .step-col:nth-child(2) .step-area:after {
   content: "";
   position: relative;
-  right: -205px;
+  right: -178px;
   bottom: 40px;
   border-top: 25px solid transparent;
   border-bottom: 25px solid transparent;
@@ -942,7 +942,6 @@ input:checked + .slider::before {
 .item-list .item-lists p{
   margin: 0 0 5px 10px;
 }
-
 /*
 .item-list .item-lists li.list-icon-check {
   list-style-image: url('../images/check-icon-new2.png');
