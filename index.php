@@ -5,7 +5,8 @@
 <div class="container-fluid mt-0" id="main-page">
     <div class="row justify-content-center">
         <div class="col-12 col-md-12 pl-0 pr-0" id="particles-js">
-                <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" id="home-slider-content">
+            <div class="row">
+                <div class="col-11 col-sm-11 col-md-6 col-lg-6 col-xl-6" id="home-slider-content">
                     <div class="row">
                         <div class="col-12 col-md-12">
                             <h1>Welcome to </h1><h1><span class="theme-color-text3">E</span> Visas Dubai Service Portal</h1>
@@ -15,19 +16,19 @@
                         </div>
                         <div class="col-12 col-md-12 mt-3">
                             <div class="row three-steps">
-                                <div class="col-12 col-md-4 step-col">
+                                <div class="col-4 col-md-4 step-col">
                                     <div class="step-area">
                                         <p class="pt-3">Step 1</p>
                                         <p>Fill the Form</p>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-4 step-col">
+                                <div class="col-4 col-md-4 step-col">
                                     <div class="step-area">
                                         <p class="pt-3">Step 2</p>
                                         <p>Make the Payment</p>
                                     </div>    
                                 </div>
-                                <div class="col-12 col-md-4 step-col">
+                                <div class="col-4 col-md-4 step-col">
                                     <div class="step-area">    
                                         <p class="pt-3">Step 3</p>
                                         <p>Receive your Visa</p>
@@ -41,6 +42,7 @@
                     </div>
                     
                 </div>
+             </div>    
                 <video
                         id="my-video"
                         class="video-js"

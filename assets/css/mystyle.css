@@ -693,13 +693,13 @@ canvas {
   position: relative;
 }
 .three-steps .step-col:nth-child(1) .step-area:after,.three-steps .step-col:nth-child(2) .step-area:after {
-  content: "";
-  position: absolute;
-  right: -14px;
-  bottom: 0px;
-  border-top: 35px solid transparent;
-  border-bottom: 35px solid transparent;
-  border-left: 14px solid hsl(0deg 0% 90.59%);
+    content: "";
+    position: absolute;
+    right: -14px;
+    bottom: 0px;
+    border-top: 35px solid transparent;
+    border-bottom: 35px solid transparent;
+    border-left: 14px solid hsl(0deg 0% 90.59%);
 }
 .three-steps .step-area p{
   margin: 0px;
@@ -722,17 +722,18 @@ canvas {
 }
 
 #pills-tab {
-  display: flex;
-  justify-content: center;
-  background-color: #1286ca;
-  border-radius: 24px;
-  padding: 7px 0px;
+    display: flex;
+    justify-content: center;
+    background-color: #2d8b48;
+    border-radius: 24px;
+    padding: 5px 0px;
+    width: 220px;
 }
 
 #pills-tab .nav-link.active{
   background-color: #fff;
-  color: #1286ca;
-  border-radius: 15px;
+  color: #2d8b48;
+  border-radius: 20px;
 }
 div#pills-tabContent {
   display: flex;
