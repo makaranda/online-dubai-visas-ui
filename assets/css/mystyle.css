@@ -21,7 +21,7 @@ section.navbar-header-main {
     color: rgb(36 181 237);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 3px 0px;
     text-shadow: rgb(255, 255, 255) 1px 1px 2px;
-    background-image: linear-gradient(rgb(123 246 247), rgb(4, 119, 196));
+    background-image: linear-gradient(rgb(123 246 247), rgb(52 133 70));
 }
 #mainNavArea {
   box-shadow: 0px 18px 7px -14px #ccc;
@@ -690,15 +690,16 @@ canvas {
   padding: 0 12px 0 12px;
   background-color: #e7e7e7;
   height: 70px;
+  position: relative;
 }
 .three-steps .step-col:nth-child(1) .step-area:after,.three-steps .step-col:nth-child(2) .step-area:after {
   content: "";
-  position: relative;
-  right: -178px;
-  bottom: 40px;
-  border-top: 25px solid transparent;
-  border-bottom: 25px solid transparent;
-  border-left: 17px solid hsl(0deg 0% 90.59%);
+  position: absolute;
+  right: -14px;
+  bottom: 0px;
+  border-top: 35px solid transparent;
+  border-bottom: 35px solid transparent;
+  border-left: 14px solid hsl(0deg 0% 90.59%);
 }
 .three-steps .step-area p{
   margin: 0px;
