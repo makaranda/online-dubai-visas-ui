@@ -34,7 +34,7 @@
     <div class="main-nav-bar container mt-2 mb-2">
         <div class="row justify-content-center">
             <div class="col-6 col-md-5">
-                <a href="./"><img src="assets/images/dubai_visa_logo.jpg" alt="Damro Furniture and Appliances in Sri Lanka" class="img-fluid"></a>
+                <a href="./"><img src="assets/images/odvisa-logo.png" alt="Online Dubai Visa" class="img-fluid"></a>
             </div>
             <div class="col-6 col-md-7 d-block d-sm-block d-md-none">
                 <button class="navbar-toggler btn-toggle-mobile" type="button"
