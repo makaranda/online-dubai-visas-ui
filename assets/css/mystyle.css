@@ -942,6 +942,7 @@ input:checked + .slider::before {
 .item-list .item-lists p{
   margin: 0 0 5px 10px;
 }
+
 /*
 .item-list .item-lists li.list-icon-check {
   list-style-image: url('../images/check-icon-new2.png');
