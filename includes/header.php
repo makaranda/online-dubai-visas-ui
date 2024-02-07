@@ -66,7 +66,7 @@
                     
                             <div class="offcanvas offcanvas-start bg-theme collapse navbar-collapse" id="navbarSupportedContent" tabindex="-1" aria-labelledby="offcanvasNavbarLabel">
                                 <div class="offcanvas-header w-100">
-                                    <a href="./"><img src="assets/images/damro-logo-01-min-1.jpg" alt="Damro Furniture and Appliances in Sri Lanka" class="img-fluid"></a>
+                                    <a href="./"><img src="assets/images/odvisa-logo.png" alt="Damro Furniture and Appliances in Sri Lanka" class="img-fluid"></a>
                                     
                                 </div>
                                 <div class="offcanvas-body main-nav-bar">
