@@ -31,7 +31,7 @@
 <body>
 
 <div id="mainNavArea">
-    <div class="main-nav-bar container mt-2 mb-2">
+    <div class="main-nav-bar container mt-3 mb-2">
         <div class="row justify-content-center">
             <div class="col-6 col-md-5">
                 <a href="./"><img src="assets/images/odvisa-logo.png" alt="Online Dubai Visa" class="img-fluid"></a>
@@ -66,7 +66,7 @@
                     
                             <div class="offcanvas offcanvas-start bg-theme collapse navbar-collapse" id="navbarSupportedContent" tabindex="-1" aria-labelledby="offcanvasNavbarLabel">
                                 <div class="offcanvas-header w-100">
-                                    <a href="./"><img src="assets/images/odvisa-logo.png" alt="Damro Furniture and Appliances in Sri Lanka" class="img-fluid"></a>
+                                    <a href="./"><img src="assets/images/odvisa-logo.png" alt="Dubai Visa" class="img-fluid"></a>
                                     
                                 </div>
                                 <div class="offcanvas-body main-nav-bar">
